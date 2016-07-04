@@ -1,0 +1,29 @@
+Partlist exported from C:/Users/minelli/Documents/II/CII/Fuente Simétrica/fuenteSimetrica.sch at 05/06/2016 21:59
+
+Part Value   Device          Package      Description                          MF MPN OC_FARNELL OC_NEWARK
+C1   1000uF  CPOL-USE3.5-8   E3,5-8       POLARIZED CAPACITOR, American symbol                            
+C2   1000uF  CPOL-USE3.5-8   E3,5-8       POLARIZED CAPACITOR, American symbol                            
+C3   1uF     CPOL-USE2.5-6   E2,5-6       POLARIZED CAPACITOR, American symbol                            
+C4   1uF     CPOL-USE2.5-6   E2,5-6       POLARIZED CAPACITOR, American symbol                            
+C5   10nF    C-EU050-030X075 C050-030X075 CAPACITOR, European symbol                                      
+C6   10nF    C-EU050-030X075 C050-030X075 CAPACITOR, European symbol                                      
+C7   10uF    CPOL-USE2.5-6   E2,5-6       POLARIZED CAPACITOR, American symbol                            
+C8   10uF    CPOL-USE2.5-6   E2,5-6       POLARIZED CAPACITOR, American symbol                            
+D1   1N4004  1N4004          DO41-10      DIODE                                                           
+D2   1N4004  1N4004          DO41-10      DIODE                                                           
+D3   1N4004  1N4004          DO41-10      DIODE                                                           
+D4   1N4004  1N4004          DO41-10      DIODE                                                           
+IC1  317T    317T            TO220H       Positive VOLTAGE REGULATOR                                      
+IC2  337T    337T            TO220H       Negative VOLTAGE REGULATOR                                      
+LED1 +vcc    LED5MM          LED5MM       LED                                                             
+LED2 -vcc    LED5MM          LED5MM       LED                                                             
+R1   10KOhm  TRIM_EU-RS3     RS3          POTENTIOMETER                                                   
+R2   470KOhm TRIM_EU-RS3     RS3          POTENTIOMETER                                                   
+R3   470KOhm TRIM_EU-RS3     RS3          POTENTIOMETER                                                   
+R4   10KOhm  TRIM_EU-RS3     RS3          POTENTIOMETER                                                   
+R5   220Ohm  R-US_0207/10    0207/10      RESISTOR, American symbol                                       
+R6   220Ohm  R-US_0207/10    0207/10      RESISTOR, American symbol                                       
+R7   330Ohm  R-US_0207/10    0207/10      RESISTOR, American symbol                                       
+R8   330Ohm  R-US_0207/10    0207/10      RESISTOR, American symbol                                       
+X1           AK500/3-H       AK500/3-H    CONNECTOR                                   unknown    unknown  
+X2           AK500/3-H       AK500/3-H    CONNECTOR                                   unknown    unknown  
